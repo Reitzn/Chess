@@ -1,0 +1,8 @@
+pawn promotion - when pawn gets to end of board - method that switches pieces, asks in GUI which piece
+graveyard - show taken / captured pieces in panels (pawn can only choose from these) - arrayList of pieces
+castling - rules when avaliable, add to King and Rook class? - isValidMove
+en passant - another rule in isValidMove of Pawn class - maybe in Model class
+undo / redo button - arrayList of Move types, then methods to undo/redo (need to save off last board before move)
+highlight moves that can get one out of check
+android app
+artificial intelligence - save off boards (recurse), use ranking algorithm, have computer (black) make move based on that
