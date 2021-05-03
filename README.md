@@ -1,7 +1,3 @@
-# CIS 163
-
-## Project 3
-
 # Chess game 
 
 Collaborated on designing and implementing class hierarchy that utilizes polymorphism.
